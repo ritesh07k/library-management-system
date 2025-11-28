@@ -6,8 +6,7 @@ It is built using Spring Boot for the backend and React.js with TypeScript for t
 ## Features
 - Add, update, and view books
 - Borrow and return tracking
-- My
-- SQL-based relational data storage
+- MySQL-based relational data storage
 - Layered backend architecture
 - Responsive frontend built with React and TypeScript
 
